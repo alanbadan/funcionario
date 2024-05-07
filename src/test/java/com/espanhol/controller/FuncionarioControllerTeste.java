@@ -35,7 +35,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 
-/*
+
 @WebMvcTest
 public class FuncionarioControllerTeste {
 	
@@ -189,4 +189,3 @@ public class FuncionarioControllerTeste {
 		         .andDo(print());
 	}
 }
-*/

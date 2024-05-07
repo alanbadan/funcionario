@@ -22,7 +22,7 @@ import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 
 import com.espanhol.model.Funcionario;
-/*
+
 @TestMethodOrder(MethodOrderer.class)
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 public class FuncionarioControllerRestTemplatesTeste {
@@ -122,4 +122,3 @@ public class FuncionarioControllerRestTemplatesTeste {
 	}
 	
 }
-*/

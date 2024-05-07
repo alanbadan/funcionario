@@ -15,7 +15,7 @@ import org.springframework.http.MediaType;
 import org.springframework.test.web.reactive.server.WebTestClient;
 
 import com.espanhol.model.Funcionario;
-/*
+
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 public class FuncionarioControllerWebClientTeste {
@@ -136,4 +136,3 @@ public class FuncionarioControllerWebClientTeste {
 		webTestClient.get().uri(URI + "/1").exchange().expectStatus().is4xxClientError();
 	}
 }
-*/

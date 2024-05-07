@@ -14,7 +14,7 @@ import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 import com.espanhol.model.Funcionario;
 import com.espanhol.model.Funcionario.FuncionarioBuilder;
 import com.espanhol.repository.FuncionarioRepository;
-/*
+
 @DataJpaTest
 public class FuncionarioRepositoryTeste {
 	
@@ -104,4 +104,3 @@ public class FuncionarioRepositoryTeste {
 		
 	}
 }
-*/
