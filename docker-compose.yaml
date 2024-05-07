@@ -14,7 +14,7 @@
       - spring-boot-network 
   spring-boot-app:
      container_name: spring-demo-curso
-     image: spring/curso-espanhol
+     image: spring/espanhol
      ports:
        - "8088:8080"
      networks:
