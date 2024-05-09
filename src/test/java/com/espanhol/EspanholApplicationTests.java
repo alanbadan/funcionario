@@ -2,13 +2,12 @@ package com.espanhol;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
-/*
+
 @SpringBootTest
-class CursoEspanholApplicationTests {
+class EspanholApplicationTests {
 
 	@Test
 	void contextLoads() {
 	}
 
 }
-*/
